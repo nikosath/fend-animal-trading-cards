@@ -1,1 +1,15 @@
-/* add your CSS here */
+ul.item-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+.border {
+  border-style: solid;
+  border-width: thin;
+  padding: 0 1em 1em 1em;
+}
+img {
+  padding-bottom: 1em;
+}
+.fixed-width {
+  width: 300px;
+}
