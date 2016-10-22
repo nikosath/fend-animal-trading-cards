@@ -1,3 +1,7 @@
+body {
+  width: 322px;
+  box-shadow: 0 5px 5px 0;
+}
 ul.item-list {
   list-style-type: none;
   padding-left: 0;
@@ -5,11 +9,13 @@ ul.item-list {
 .border {
   border-style: solid;
   border-width: thin;
-  padding: 0 1em 1em 1em;
+  padding: 0 10px 10px 10px;
 }
-img {
-  padding-bottom: 1em;
-}
-.fixed-width {
+.animal-img {
+  padding-bottom: 10px;
   width: 300px;
+}
+
+.animal-info {
+  width: 280px;
 }
